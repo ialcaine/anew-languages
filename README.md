@@ -5,4 +5,4 @@ For translators, please make sure that you use the language files from version 2
 Thank you!
 
 Anew
-http://alxmedia.se/themes/hueman/
+http://alxmedia.se/themes/anew/

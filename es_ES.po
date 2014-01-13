@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-12-27 14:36+0100\n"
+"PO-Revision-Date: 2014-01-08 10:39+0100\n"
+"Last-Translator: Paco Comesaña <paco@hazloya.es>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"La página que estás intentando ver no existe o ha cambiado de sitio. Por "
+"favor, usa los menús o la caja de búsqueda para encontrar lo que estás "
+"buscando."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Sin respuestas"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 respuesta"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% respuestas"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:11
+msgid "Track/Pingbacks"
+msgstr "Track/Pingbacks"
+
+#: ../content.php:37
+msgid "More"
+msgstr "Más"
+
+#: ../footer.php:60
+msgid "All Rights Reserved."
+msgstr "Todos los derechos reservados."
+
+#: ../footer.php:66
+msgid "Powered by"
+msgstr "Funciona con"
+
+#: ../footer.php:66
+msgid "Theme by"
+msgstr "Diseño de"
+
+#: ../search.php:11
+msgid "Sorry, no posts matched your criteria. Try again with some other terms."
+msgstr ""
+"Disculpa: ningún artículo coincide con tu búsqueda. Prueba con otras "
+"palabras."
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Escribe tu búsqueda y pulsa Enter"
+
+#: ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Expandir barra lateral"
+
+#: ../single.php:37
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: ../single.php:40
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Últimos artículos"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Artículos populares"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Últimos comentarios"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "dice:"
+
+#: ../inc/page-title.php:9
+msgid "Results"
+msgstr "Resultados"
+
+#: ../inc/page-title.php:9
+msgid "for"
+msgstr "para"
+
+#: ../inc/page-title.php:14
+msgid "Error 404."
+msgstr "Error 404."
+
+#: ../inc/page-title.php:14
+msgid "Page not found!"
+msgstr "¡Página no encontrada!"
+
+#: ../inc/page-title.php:19
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../inc/page-title.php:22
+msgid "Category:"
+msgstr "Categoría:"
+
+#: ../inc/page-title.php:30
+msgid "Tagged:"
+msgstr "Etiquetado:"
+
+#: ../inc/page-title.php:33
+msgid "Daily Archive:"
+msgstr "Archivo por día:"
+
+#: ../inc/page-title.php:36
+msgid "Monthly Archive:"
+msgstr "Archivo por mes:"
+
+#: ../inc/page-title.php:39
+msgid "Yearly Archive:"
+msgstr "Archivo por año:"
+
+#: ../inc/page-title.php:42 ../inc/page-title.php:44 ../inc/page-title.php:46
+#: ../inc/page-title.php:48 ../inc/page-title.php:50 ../inc/page-title.php:52
+#: ../inc/page-title.php:54 ../inc/page-title.php:56 ../inc/page-title.php:58
+msgid "Type:"
+msgstr "Tipo:"
+
+#: ../inc/page-title.php:42
+msgid "Audio"
+msgstr "Audio"
+
+#: ../inc/page-title.php:44
+msgid "Aside"
+msgstr "Minientrada"
+
+#: ../inc/page-title.php:46
+msgid "Chat"
+msgstr "Chat"
+
+#: ../inc/page-title.php:48
+msgid "Gallery"
+msgstr "Galería"
+
+#: ../inc/page-title.php:50
+msgid "Image"
+msgstr "Imagen"
+
+#: ../inc/page-title.php:52
+msgid "Link"
+msgstr "Enlace"
+
+#: ../inc/page-title.php:54
+msgid "Quote"
+msgstr "Cita"
+
+#: ../inc/page-title.php:56
+msgid "Status"
+msgstr "Estado"
+
+#: ../inc/page-title.php:58
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../inc/post-nav.php:3
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../inc/post-nav.php:4
+msgid "Previous"
+msgstr "Anterior"

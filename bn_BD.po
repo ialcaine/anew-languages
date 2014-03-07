@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2013-12-27 14:36+0100\n"
+"PO-Revision-Date: 2013-12-29 19:44+0100\n"
+"Last-Translator: Emil Stahl Pedersen <emil@emilstahl.dk>\n"
+"Language-Team: Emil Stahl Pedersen <emil@emilstahl.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid ""
+"The page you trying to reach does not exist, or has been moved. Please use "
+"the menus or the search box to find what you are looking for."
+msgstr ""
+"আপনি যে পাতাটি খুঁজছেন তা পাওয়া যাচ্ছে না, হয়তো সেটা সরিয়ে ফেলা হয়েছে।  অনুগ্রহ করে মেনুগুলো"
+"ব্যবহার করুন অথবা অনুসন্ধান বক্স এ আপনার কাঙ্খিত পাতাটি খুঁজে বের করতে পারেন।"
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "কোন জবাব নেই"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "একটি জবাব"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% টি জবাবসমূহ"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "মন্তব্যসমূহ"
+
+#: ../comments.php:11
+msgid "Track/Pingbacks"
+msgstr "ট্র্যাক/পিংব্যাকসমূহ"
+
+#: ../content.php:37
+msgid "More"
+msgstr "আরোও"
+
+#: ../footer.php:60
+msgid "All Rights Reserved."
+msgstr "সকল স্বত্ত্ব সংরক্ষিত।"
+
+#: ../footer.php:66
+msgid "Powered by"
+msgstr "চালিকাশক্তিঃ"
+
+#: ../footer.php:66
+msgid "Theme by"
+msgstr "থিম ডিজাইন"
+
+#: ../search.php:11
+msgid "Sorry, no posts matched your criteria. Try again with some other terms."
+msgstr "কোন প্রকাশনা পাওয়া যায়নি! অনুগ্রহ করে অন্য যেকোনো কিছু লিখে অনুসন্ধান করুন। "
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "অনুসন্ধান করুন..."
+
+#: ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "সাইডবার বিস্তার করুন"
+
+#: ../single.php:37
+msgid "Pages:"
+msgstr "পাতাসমূহ:"
+
+#: ../single.php:40
+msgid "Tags:"
+msgstr "ট্যাগসমুহ:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "সাম্প্রতিক প্রকাশনাসমূহ"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "জনপ্রিয় প্রকাশনাসমূহ"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "সাম্প্রতিক মন্তব্যসমূহ"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "ট্যাগসমূহ"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "বলেছেন:"
+
+#: ../inc/page-title.php:9
+msgid "Results"
+msgstr "ফলাফলসমূহ"
+
+#: ../inc/page-title.php:9
+msgid "for"
+msgstr "জন্য"
+
+#: ../inc/page-title.php:14
+msgid "Error 404."
+msgstr "সমস্যা ৪০৪!"
+
+#: ../inc/page-title.php:14
+msgid "Page not found!"
+msgstr "পাতা খুঁজে পাওয়া যায়নি"
+
+#: ../inc/page-title.php:19
+msgid "Author:"
+msgstr "লেখক:"
+
+#: ../inc/page-title.php:22
+msgid "Category:"
+msgstr "বিভাগ:"
+
+#: ../inc/page-title.php:30
+msgid "Tagged:"
+msgstr "ট্যাগসমূহ:"
+
+#: ../inc/page-title.php:33
+msgid "Daily Archive:"
+msgstr "দৈনিক সংরক্ষণাগার:"
+
+#: ../inc/page-title.php:36
+msgid "Monthly Archive:"
+msgstr "মাসিক সংরক্ষণ:"
+
+#: ../inc/page-title.php:39
+msgid "Yearly Archive:"
+msgstr "বার্ষিক সংরক্ষণ:"
+
+#: ../inc/page-title.php:42 ../inc/page-title.php:44 ../inc/page-title.php:46
+#: ../inc/page-title.php:48 ../inc/page-title.php:50 ../inc/page-title.php:52
+#: ../inc/page-title.php:54 ../inc/page-title.php:56 ../inc/page-title.php:58
+msgid "Type:"
+msgstr "ধরন:"
+
+#: ../inc/page-title.php:42
+msgid "Audio"
+msgstr "অডিও"
+
+#: ../inc/page-title.php:44
+msgid "Aside"
+msgstr "একপাশে"
+
+#: ../inc/page-title.php:46
+msgid "Chat"
+msgstr "চ্যাট"
+
+#: ../inc/page-title.php:48
+msgid "Gallery"
+msgstr "গ্যালারী"
+
+#: ../inc/page-title.php:50
+msgid "Image"
+msgstr "ছবি"
+
+#: ../inc/page-title.php:52
+msgid "Link"
+msgstr "লিংক"
+
+#: ../inc/page-title.php:54
+msgid "Quote"
+msgstr "উদ্ধৃতি"
+
+#: ../inc/page-title.php:56
+msgid "Status"
+msgstr "অবস্থা"
+
+#: ../inc/page-title.php:58
+msgid "Video"
+msgstr "ভিডিও"
+
+#: ../inc/post-nav.php:3
+msgid "Next"
+msgstr "পরবর্তি"
+
+#: ../inc/post-nav.php:4
+msgid "Previous"
+msgstr "পূর্ববর্তি"

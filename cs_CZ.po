@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:36+0100\n"
-"PO-Revision-Date: 2014-05-12 22:04+0100\n"
+"PO-Revision-Date: 2014-05-12 22:32+0100\n"
 "Last-Translator: David Knap <mail@davidknap.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -25,15 +25,15 @@ msgstr ""
 
 #: ../comments.php:7
 msgid "No Responses"
-msgstr "Bez odpovědí"
+msgstr "Žádné reakce"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "1 odpověď"
+msgstr "1 reakce"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% odpovědí"
+msgstr "% reakcí"
 
 #: ../comments.php:10
 msgid "Comments"
@@ -45,7 +45,7 @@ msgstr "Pingbacky"
 
 #: ../content.php:37
 msgid "More"
-msgstr "Číst dále"
+msgstr "Více"
 
 #: ../footer.php:60
 msgid "All Rights Reserved."
@@ -97,13 +97,12 @@ msgstr "Štítky"
 
 #: ../functions/widgets/alx-tabs.php:185
 msgid "says:"
-msgstr "říká:"
+msgstr "píše:"
 
 #: ../inc/page-title.php:9
 msgid "Results"
-msgstr "Výsledky"
+msgstr "výsledky"
 
-# Didn't find where it is used, so it may not be accurate.
 #: ../inc/page-title.php:9
 msgid "for"
 msgstr "pro"
@@ -122,7 +121,7 @@ msgstr "Autor:"
 
 #: ../inc/page-title.php:22
 msgid "Category:"
-msgstr "Kategorie:"
+msgstr "Rubrika:"
 
 #: ../inc/page-title.php:30
 msgid "Tagged:"

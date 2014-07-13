@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:36+0100\n"
-"PO-Revision-Date: 2014-07-13 22:22+0800\n"
+"PO-Revision-Date: 2014-07-14 00:08+0800\n"
 "Last-Translator: pingjiang <pingjiang1989@gmail.com>\n"
 "Language-Team: pingjiang <pingjiang1989@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
 msgstr ""
-"您访问的页面不存在或者已经被移走了。请使用菜单或搜索框查找您想要的内容。"
+"您访问的页面不存在或者已经被移走了，请使用菜单或搜索框查找您想要的内容。"
 
 #: ../comments.php:7
 msgid "No Responses"
@@ -65,7 +65,7 @@ msgstr "对不起，没有匹配到您搜索的内容。请尝试其它关键字
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "搜索，请输入关键字并按Enter键"
+msgstr "请输入关键字并按Enter键开始搜索"
 
 #: ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -77,7 +77,7 @@ msgstr "页面："
 
 #: ../single.php:40
 msgid "Tags:"
-msgstr "标签"
+msgstr "标签："
 
 #: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
@@ -105,7 +105,7 @@ msgstr "结果"
 
 #: ../inc/page-title.php:9
 msgid "for"
-msgstr "的"
+msgstr ""
 
 #: ../inc/page-title.php:14
 msgid "Error 404."
@@ -183,8 +183,8 @@ msgstr "视频"
 
 #: ../inc/post-nav.php:3
 msgid "Next"
-msgstr "下一页"
+msgstr "下一篇"
 
 #: ../inc/post-nav.php:4
 msgid "Previous"
-msgstr "前一页"
+msgstr "前一篇"

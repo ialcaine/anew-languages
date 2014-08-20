@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-27 14:36+0100\n"
+"PO-Revision-Date: Wed Aug 20 2014 15:07:37 GMT+0200 (Hora de verano romance)\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: en_GB"
+
+#: ../404.php:10
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"Siden du leter etter finnes ikke. Bruk menyen eller søkeboksen for å finne "
+"det du leter etter."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Ingen svar"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 svar"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% svar"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: ../comments.php:11
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: ../content.php:37
+msgid "More"
+msgstr "Mer"
+
+#: ../footer.php:60
+msgid "All Rights Reserved."
+msgstr " Alle rettigheter reservert."
+
+#: ../footer.php:66
+msgid "Powered by"
+msgstr "Drevet av"
+
+#: ../footer.php:66
+msgid "Theme by"
+msgstr "Tema av"
+
+#: ../search.php:11
+msgid "Sorry, no posts matched your criteria. Try again with some other terms."
+msgstr "Beklager, ingen innlegg matcher dine stikkord. Prøv igjen med andre stikkord."
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Skriv og trykk enter for å søke"
+
+#: ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Utvid sidebar"
+
+#: ../single.php:37
+msgid "Pages:"
+msgstr "Sider:"
+
+#: ../single.php:40
+msgid "Tags:"
+msgstr "Stikkord:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Nylige Innlegg"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Populære Innlegg"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Nylige Kommentarer"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Stikkord"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "sier:"
+
+#: ../inc/page-title.php:9
+msgid "Results"
+msgstr "Resultater"
+
+#: ../inc/page-title.php:9
+msgid "for"
+msgstr "for"
+
+#: ../inc/page-title.php:14
+msgid "Error 404."
+msgstr "404 feil."
+
+#: ../inc/page-title.php:14
+msgid "Page not found!"
+msgstr "Fant ikke siden!"
+
+#: ../inc/page-title.php:19
+msgid "Author:"
+msgstr "Forfatter:"
+
+#: ../inc/page-title.php:22
+msgid "Category:"
+msgstr "Kategori:"
+
+#: ../inc/page-title.php:30
+msgid "Tagged:"
+msgstr "Stikkord:"
+
+#: ../inc/page-title.php:33
+msgid "Daily Archive:"
+msgstr "Daglig Arkiv:"
+
+#: ../inc/page-title.php:36
+msgid "Monthly Archive:"
+msgstr "Månedlig Arkiv:"
+
+#: ../inc/page-title.php:39
+msgid "Yearly Archive:"
+msgstr "Årlig Arkiv:"
+
+#: ../inc/page-title.php:42 ../inc/page-title.php:44 ../inc/page-title.php:46
+#: ../inc/page-title.php:48 ../inc/page-title.php:50 ../inc/page-title.php:52
+#: ../inc/page-title.php:54 ../inc/page-title.php:56 ../inc/page-title.php:58
+msgid "Type:"
+msgstr "Type:"
+
+#: ../inc/page-title.php:42
+msgid "Audio"
+msgstr "Lyd"
+
+#: ../inc/page-title.php:44
+msgid "Aside"
+msgstr "Aside"
+
+#: ../inc/page-title.php:46
+msgid "Chat"
+msgstr "Chat"
+
+#: ../inc/page-title.php:48
+msgid "Gallery"
+msgstr "Galleri"
+
+#: ../inc/page-title.php:50
+msgid "Image"
+msgstr "Bilde"
+
+#: ../inc/page-title.php:52
+msgid "Link"
+msgstr "Link"
+
+#: ../inc/page-title.php:54
+msgid "Quote"
+msgstr "Ordtak"
+
+#: ../inc/page-title.php:56
+msgid "Status"
+msgstr "Status"
+
+#: ../inc/page-title.php:58
+msgid "Video"
+msgstr "Video"
+
+#: ../inc/post-nav.php:3
+msgid "Next"
+msgstr "Neste"
+
+#: ../inc/post-nav.php:4
+msgid "Previous"
+msgstr "Forrige"

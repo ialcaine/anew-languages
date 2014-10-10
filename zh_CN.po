@@ -2,13 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:36+0100\n"
-"PO-Revision-Date: 2014-07-15 22:43+0800\n"
-"Last-Translator: pingjiang <pingjiang1989@gmail.com>\n"
+"PO-Revision-Date: 2014-10-11 04:47+0800\n"
+"Last-Translator: MinonHeart <liuhao.mt@qq.com>\n"
 "Language-Team: pingjiang <pingjiang1989@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.6\n"
+"X-Generator: Poedit 1.6.9\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -29,11 +29,11 @@ msgstr "没有响应"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "一个人评论"
+msgstr "1 条评论"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% 个人评论"
+msgstr "% 条评论"
 
 #: ../comments.php:10
 msgid "Comments"
@@ -65,7 +65,7 @@ msgstr "对不起，没有匹配到您搜索的内容。请尝试其它关键字
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "请输入关键字并按Enter键开始搜索"
+msgstr "搜索 ..."
 
 #: ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -113,7 +113,7 @@ msgstr "404 错误。"
 
 #: ../inc/page-title.php:14
 msgid "Page not found!"
-msgstr "页面没有找到！"
+msgstr "页面不存在！"
 
 #: ../inc/page-title.php:19
 msgid "Author:"
@@ -187,4 +187,4 @@ msgstr "下一篇"
 
 #: ../inc/post-nav.php:4
 msgid "Previous"
-msgstr "前一篇"
+msgstr "上一篇"

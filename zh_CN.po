@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Hueman\n"
+"Project-Id-Version: Anew\n"
 "POT-Creation-Date: 2013-12-27 14:36+0100\n"
-"PO-Revision-Date: 2014-10-11 13:47+0800\n"
+"PO-Revision-Date: 2014-10-11 14:49+0800\n"
 "Last-Translator: MinonHeart <liuhao.mt@qq.com>\n"
 "Language-Team: pingjiang <pingjiang1989@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../search.php:11
 msgid "Sorry, no posts matched your criteria. Try again with some other terms."
-msgstr "对不起，没有匹配到您搜索的内容。请尝试其它关键字。"
+msgstr "对不起，没有匹配到你搜索的内容。请尝试其它关键字。"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
@@ -80,15 +80,15 @@ msgstr "标签："
 
 #: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
-msgstr "最近的文章"
+msgstr "最新文章"
 
 #: ../functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
-msgstr "最受欢迎的文章"
+msgstr "热门文章"
 
 #: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
-msgstr "最近的评论"
+msgstr "近期评论"
 
 #: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
@@ -104,7 +104,7 @@ msgstr "结果"
 
 #: ../inc/page-title.php:9
 msgid "for"
-msgstr ""
+msgstr "关于"
 
 #: ../inc/page-title.php:14
 msgid "Error 404."

@@ -1,14 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Hueman\n"
+"Project-Id-Version: Anew\n"
 "POT-Creation-Date: 2013-12-27 14:36+0100\n"
-"PO-Revision-Date: 2014-07-15 22:43+0800\n"
-"Last-Translator: pingjiang <pingjiang1989@gmail.com>\n"
+"PO-Revision-Date: 2014-10-11 14:49+0800\n"
+"Last-Translator: MinonHeart <liuhao.mt@qq.com>\n"
 "Language-Team: pingjiang <pingjiang1989@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.6\n"
+"X-Generator: Poedit 1.6.9\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
@@ -20,20 +20,19 @@ msgstr ""
 msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
-msgstr ""
-"您访问的页面不存在或者已经被移走了，请使用菜单或搜索框查找您想要的内容。"
+msgstr "你访问的页面不存在或已被移除，请通过菜单或搜索框来寻找你想要的内容。"
 
 #: ../comments.php:7
 msgid "No Responses"
-msgstr "没有响应"
+msgstr "尚无评论"
 
 #: ../comments.php:7
 msgid "1 Response"
-msgstr "一个人评论"
+msgstr "1 条评论"
 
 #: ../comments.php:7
 msgid "% Responses"
-msgstr "% 个人评论"
+msgstr "% 条评论"
 
 #: ../comments.php:10
 msgid "Comments"
@@ -41,7 +40,7 @@ msgstr "评论"
 
 #: ../comments.php:11
 msgid "Pingbacks"
-msgstr ""
+msgstr "引用通告"
 
 #: ../content.php:37
 msgid "More"
@@ -53,19 +52,19 @@ msgstr "版权所有"
 
 #: ../footer.php:66
 msgid "Powered by"
-msgstr "技术支持"
+msgstr ""
 
 #: ../footer.php:66
 msgid "Theme by"
-msgstr "主题支持"
+msgstr ""
 
 #: ../search.php:11
 msgid "Sorry, no posts matched your criteria. Try again with some other terms."
-msgstr "对不起，没有匹配到您搜索的内容。请尝试其它关键字。"
+msgstr "对不起，没有匹配到你搜索的内容。请尝试其它关键字。"
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr "请输入关键字并按Enter键开始搜索"
+msgstr "搜索 ..."
 
 #: ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -81,15 +80,15 @@ msgstr "标签："
 
 #: ../functions/widgets/alx-tabs.php:27
 msgid "Recent Posts"
-msgstr "最近的文章"
+msgstr "最新文章"
 
 #: ../functions/widgets/alx-tabs.php:28
 msgid "Popular Posts"
-msgstr "最受欢迎的文章"
+msgstr "热门文章"
 
 #: ../functions/widgets/alx-tabs.php:29
 msgid "Recent Comments"
-msgstr "最近的评论"
+msgstr "近期评论"
 
 #: ../functions/widgets/alx-tabs.php:30
 msgid "Tags"
@@ -105,7 +104,7 @@ msgstr "结果"
 
 #: ../inc/page-title.php:9
 msgid "for"
-msgstr ""
+msgstr "关于"
 
 #: ../inc/page-title.php:14
 msgid "Error 404."
@@ -113,7 +112,7 @@ msgstr "404 错误。"
 
 #: ../inc/page-title.php:14
 msgid "Page not found!"
-msgstr "页面没有找到！"
+msgstr "页面不存在！"
 
 #: ../inc/page-title.php:19
 msgid "Author:"
@@ -187,4 +186,4 @@ msgstr "下一篇"
 
 #: ../inc/post-nav.php:4
 msgid "Previous"
-msgstr "前一篇"
+msgstr "上一篇"

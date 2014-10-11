@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:36+0100\n"
-"PO-Revision-Date: 2014-10-11 04:47+0800\n"
+"PO-Revision-Date: 2014-10-11 13:47+0800\n"
 "Last-Translator: MinonHeart <liuhao.mt@qq.com>\n"
 "Language-Team: pingjiang <pingjiang1989@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +20,11 @@ msgstr ""
 msgid ""
 "The page you are trying to reach does not exist, or has been moved. Please "
 "use the menus or the search box to find what you are looking for."
-msgstr ""
-"您访问的页面不存在或者已经被移走了，请使用菜单或搜索框查找您想要的内容。"
+msgstr "你访问的页面不存在或已被移除，请通过菜单或搜索框来寻找你想要的内容。"
 
 #: ../comments.php:7
 msgid "No Responses"
-msgstr "没有响应"
+msgstr "尚无评论"
 
 #: ../comments.php:7
 msgid "1 Response"
@@ -41,7 +40,7 @@ msgstr "评论"
 
 #: ../comments.php:11
 msgid "Pingbacks"
-msgstr ""
+msgstr "引用通告"
 
 #: ../content.php:37
 msgid "More"
@@ -53,11 +52,11 @@ msgstr "版权所有"
 
 #: ../footer.php:66
 msgid "Powered by"
-msgstr "技术支持"
+msgstr ""
 
 #: ../footer.php:66
 msgid "Theme by"
-msgstr "主题支持"
+msgstr ""
 
 #: ../search.php:11
 msgid "Sorry, no posts matched your criteria. Try again with some other terms."

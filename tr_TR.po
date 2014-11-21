@@ -153,7 +153,7 @@ msgstr "Ses"
 
 #: ../inc/page-title.php:44
 msgid "Aside"
-msgstr "Alıntı"
+msgstr "Kenar"
 
 #: ../inc/page-title.php:46
 msgid "Chat"
@@ -173,7 +173,7 @@ msgstr "Bağlantı"
 
 #: ../inc/page-title.php:54
 msgid "Quote"
-msgstr "Cita"
+msgstr "Alıntı"
 
 #: ../inc/page-title.php:56
 msgid "Status"
@@ -185,7 +185,7 @@ msgstr "Vídeo"
 
 #: ../inc/post-nav.php:3
 msgid "Next"
-msgstr "SSonraki"
+msgstr "Sonraki"
 
 #: ../inc/post-nav.php:4
 msgid "Previous"

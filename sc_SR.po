@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2014-12-29 10:28+0100\n"
+"PO-Revision-Date: 2014-12-29 10:28+0100\n"
+"Last-Translator: bockoblur\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"Страница коју сте пробали да отворите не постоји или је премештена. Молим Вас "
+"користите меније или претрагу да бисте пронашли оно што вам је потребно "
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Нема коментара"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 коментар"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% коментара"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Коментари"
+
+#: ../comments.php:11
+msgid "Pingbacks"
+msgstr ""
+
+#: ../content.php:37
+msgid "More"
+msgstr "Више"
+
+#: ../footer.php:60
+msgid "All Rights Reserved."
+msgstr "Сва права задржана."
+
+#: ../footer.php:66
+msgid "Powered by"
+msgstr "Покреће "
+
+#: ../footer.php:66
+msgid "Theme by"
+msgstr "Тема од"
+
+#: ../search.php:11
+msgid "Sorry, no posts matched your criteria. Try again with some other terms."
+msgstr ""
+"Жао нам је, ниједан чланак не одговара Вашим критеријумима. Покушајте поново са другим речима "
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Укуцајте реч(и) за претрагу и притисните Ентер"
+
+#: ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Проширите bočnu traku"
+
+#: ../single.php:37
+msgid "Pages:"
+msgstr "Страница:"
+
+#: ../single.php:40
+msgid "Tags:"
+msgstr "Ознаке:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Скорашњи чланци"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Популарни чланци"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Скорашњи коментари"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Ознаке"
+
+#: ../functions/widgets/alx-tabs.php:185
+msgid "says:"
+msgstr "је рекао:"
+
+#: ../inc/page-title.php:9
+msgid "Results"
+msgstr "Резултати"
+
+#: ../inc/page-title.php:9
+msgid "for"
+msgstr "за"
+
+#: ../inc/page-title.php:14
+msgid "Error 404."
+msgstr "Грешка 404"
+
+#: ../inc/page-title.php:14
+msgid "Page not found!"
+msgstr "Страница није пронађена!"
+
+#: ../inc/page-title.php:19
+msgid "Author:"
+msgstr "Аутор:"
+
+#: ../inc/page-title.php:22
+msgid "Category:"
+msgstr "Категорија"
+
+#: ../inc/page-title.php:30
+msgid "Tagged:"
+msgstr "Означено:"
+
+#: ../inc/page-title.php:33
+msgid "Daily Archive:"
+msgstr "Дневна архива:"
+
+#: ../inc/page-title.php:36
+msgid "Monthly Archive:"
+msgstr "Месечна архива:"
+
+#: ../inc/page-title.php:39
+msgid "Yearly Archive:"
+msgstr "Годишња архива:"
+
+#: ../inc/page-title.php:42 ../inc/page-title.php:44 ../inc/page-title.php:46
+#: ../inc/page-title.php:48 ../inc/page-title.php:50 ../inc/page-title.php:52
+#: ../inc/page-title.php:54 ../inc/page-title.php:56 ../inc/page-title.php:58
+msgid "Type:"
+msgstr "Тип:"
+
+#: ../inc/page-title.php:42
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../inc/page-title.php:44
+msgid "Aside"
+msgstr "Поред"
+
+#: ../inc/page-title.php:46
+msgid "Chat"
+msgstr "Дијалог"
+
+#: ../inc/page-title.php:48
+msgid "Gallery"
+msgstr "Галерија"
+
+#: ../inc/page-title.php:50
+msgid "Image"
+msgstr "Слика"
+
+#: ../inc/page-title.php:52
+msgid "Link"
+msgstr "Веза"
+
+#: ../inc/page-title.php:54
+msgid "Quote"
+msgstr "Цитат"
+
+#: ../inc/page-title.php:56
+msgid "Status"
+msgstr "Статус"
+
+#: ../inc/page-title.php:58
+msgid "Video"
+msgstr "Видео"
+
+#: ../inc/post-nav.php:3
+msgid "Next"
+msgstr "Следећи"
+
+#: ../inc/post-nav.php:4
+msgid "Previous"
+msgstr "Претходни"
